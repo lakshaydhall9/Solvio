@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*  # optional env files
+logs/
+*.log
+.DS_Store

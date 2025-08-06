@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+
+# Testing
+coverage/
+
+# Misc
+.env
+.env.*  # If using separate envs for frontend
+.eslintcache
+.DS_Store
